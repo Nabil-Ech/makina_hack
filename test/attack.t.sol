@@ -2,6 +2,7 @@
 pragma solidity ^0.8.13;
 
 import "forge-std/Test.sol";
+
 import {Attack} from "../src/AttackContract.sol";
 // Simple interface to check balances
 interface IERC20 {
