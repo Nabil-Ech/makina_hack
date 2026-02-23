@@ -26,7 +26,6 @@ interface ICurve{
 }
 
 contract MakinaForkTest is Test {
-    // 1. Define the addresses
     address Caliber = 0xD1A1C248B253f1fc60eACd90777B9A63F8c8c1BC;
     address Makina = 0x6b006870C83b1Cd49E766Ac9209f8d68763Df721;
     address  DUSD = 0x1e33E98aF620F1D563fcD3cfd3C75acE841204ef; 
